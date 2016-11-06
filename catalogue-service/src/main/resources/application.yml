@@ -1,6 +1,6 @@
 spring:
   application:
-    name: productCatalogueService
+    name: catalogue-service
 
 # Define the port where the Widget Foundry server would be running
 server:
